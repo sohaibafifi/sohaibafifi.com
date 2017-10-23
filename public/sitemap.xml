@@ -14,8 +14,53 @@
     
     <url>
     
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>/publication/vrptwsyn_moo_goal/</loc>
+      <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/vrptwsyn_ls_had/</loc>
+      <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/ilrp_co2/</loc>
+      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/vrptwsyn_had_roadef/</loc>
+      <lastmod>2016-02-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/vrptw_hybrid_fr/</loc>
+      <lastmod>2016-02-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/vrptw_primal/</loc>
+      <lastmod>2015-08-25T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -32,8 +77,35 @@
     
     <url>
     
+      <loc>/publication/vrptwsyn_roadef15/</loc>
+      <lastmod>2015-02-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/thesis/</loc>
+      <lastmod>2014-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/vrptw_lb_cpaior/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/vrptwsyn_roadef13/</loc>
+      <lastmod>2013-02-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -60,7 +132,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
