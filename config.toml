@@ -12,7 +12,7 @@ enableRobotsTXT = true
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-1498906-3"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -45,8 +45,8 @@ defaultContentLanguageInSubdir = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "Université d'Artois", url = "https://rt-bethune.univ-artois.fr" }, { name = "LGI2A", url = "https://lgi2a.univ-artois.fr" } ]
 
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "me.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "me [at] sohaibafifi {dot} com"
   address = ""
   office_hours = "09:00 to 17:00 or email for appointment"
