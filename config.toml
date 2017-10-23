@@ -7,7 +7,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
-
+enableRobotsTXT = true
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "me@sohaibafifi.com"
+  email = "me [at] sohaibafifi {dot} com"
   address = ""
   office_hours = "09:00 to 17:00 or email for appointment"
   # phone = "888 888 88 88"
@@ -182,7 +182,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:sohaib.lafifi@univ-artois.fr"
+    link = "mailto:sohaib.lafifi___at____@univ-artois____dot____fr"
 
   [[params.social]]
     icon = "linkedin"
