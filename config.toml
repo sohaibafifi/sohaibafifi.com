@@ -10,6 +10,7 @@ paginate = 10
 enableRobotsTXT = true
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
+publishDir = "docs"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-1498906-3"
