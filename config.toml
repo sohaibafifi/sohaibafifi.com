@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "me.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "me [at] sohaibafifi {dot} com"
+  email = "me@sohaibafifi.com"
   address = ""
   office_hours = "09:00 to 17:00 or email for appointment"
   # phone = "888 888 88 88"
@@ -183,7 +183,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:sohaib.lafifi___at____@univ-artois____dot____fr"
+    link = "mailto:sohaib.lafifi@univ-artois.fr"
 
   [[params.social]]
     icon = "linkedin"
