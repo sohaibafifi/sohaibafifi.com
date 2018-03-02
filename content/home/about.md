@@ -31,6 +31,9 @@ weight = 5
 
 # Biography
 
-I am an associate professor (Maître de conférences) at the networks and telecommunication department at the University Institutes of Technology of Béthune, France, and a member of the OptiLog research team of the LGI2A laboratory.
+I am an associate professor (Maître de conférences) at the networks and 
+telecommunication department at the University Institutes of Technology 
+of Béthune, France, and a member of the OptiSco research team of the 
+LGI2A laboratory.
 
 
